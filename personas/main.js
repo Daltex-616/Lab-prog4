@@ -13,8 +13,8 @@ app.use(express.json())
 //rutas
 let personas = [
         { id: 1, nombre: "Facundo", apellido:"Arnaudo" },
-        { id: 2, nombre: "PapuNutria", apellido:"Gato" },
-        { id: 3, nombre: "Selacome", apellido:"Jorge" },
+        { id: 2, nombre: "Gaston", apellido:"Davila" },
+        { id: 3, nombre: "Mauro", apellido:"Molina" },
         { id: 4, nombre: "Federico", apellido:"Zamora" },
       ];
 
